@@ -10,6 +10,7 @@ Backend:
 
 _**NodeJS**_
 
+![](https://s2.gifyu.com/images/demo4e18fa5e9ac946dc.gif)
 
 ### Application covers next goals
 
@@ -61,7 +62,6 @@ npm run server/app
 3\. Go to page `ip:4000/login` and login up with
 
 **Login**: _admin@manage_
-
 **Password**: _12345_
 
 Change a password or add new user at page `ip:4000/admin`
