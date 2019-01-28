@@ -10,6 +10,7 @@
     "dependencies": {
         "bcrypt": "^3.0.2",
         "body-parser": "^1.18.3",
+        "core-js": "^2.6.3",
         "cors": "^2.8.5",
         "express": "^4.16.4",
         "express-fileupload": "^1.0.0",
@@ -17,11 +18,13 @@
         "mkdirp": "^0.5.1",
         "multer": "^1.4.1",
         "serve-favicon": "^2.5.0",
-        "sqlite3": "^4.0.4"
+        "sqlite3": "^4.0.6",
+        "vue-cli": "^2.9.6"
     },
     "devDependencies": {
         "@casl/ability": "^2.5.1",
         "@casl/vue": "^0.5.0",
+        "@vue/cli": "^3.3.0",
         "@vue/cli-plugin-babel": "^3.1.1",
         "@vue/cli-plugin-eslint": "^3.1.5",
         "@vue/cli-service": "^3.1.4",
